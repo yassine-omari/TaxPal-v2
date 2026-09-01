@@ -2,8 +2,6 @@ import type { Metadata } from "next";
 import { Inter, Lexend } from "next/font/google";
 import "./globals.css";
 
-import NavBar from "./components/NavBar";
-import Footer from "./components/Footer";
 
 const inter = Inter({
   variable: "--font-inter",
@@ -61,9 +59,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       className={`${inter.variable} ${lexend.variable} h-full scroll-smooth bg-background antialiased`}
     >
       <body className="h-full flex flex-col">
-        <NavBar />
         {children}
-        <Footer />
       </body>
     </html>
   );
