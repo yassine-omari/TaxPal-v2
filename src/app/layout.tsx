@@ -15,7 +15,7 @@ const lexend = Lexend({
   subsets: ["latin"],
 });
 
-const siteUrl = "https://taxpal.com";
+const siteUrl = "https://tax-pal-v2.vercel.app/";
 const title = "TaxPal - Accounting made simple for small businesses";
 const description =
   "TaxPal is accounting software that helps small business owners manage invoices, expenses, and taxes without needing an accounting degree.";
