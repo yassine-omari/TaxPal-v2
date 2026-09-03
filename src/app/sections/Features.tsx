@@ -122,6 +122,7 @@ const Features = () => {
                     width={2174}
                     height={1464}
                     className="w-full"
+                    loading="eager"
                     sizes="(min-width: 1024px) 67.8125rem, (min-width: 640px) 100vw, 45rem"
                     src={feature.image}
                   />

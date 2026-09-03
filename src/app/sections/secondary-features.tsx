@@ -86,6 +86,7 @@ const SecondaryFeatures = () => {
                       alt=""
                       width={1688}
                       height={856}
+                      loading="eager"
                       className="w-full"
                       sizes="52.75rem"
                       src={feature.image}
