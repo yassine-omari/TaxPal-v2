@@ -15,25 +15,25 @@ const features = [
     title: "Payroll",
     summary:
       "Keep track of everyone's salaries and whether or not they've been paid. Direct deposit not supported.",
-    image: "/payroll.webp",
+    image: "/payroll.avif",
   },
   {
     title: "Claim expenses",
     summary:
       "All of your receipts organized into one place, as long as you don't mind typing in the data by hand.",
-    image: "/expenses.webp",
+    image: "/expenses.avif",
   },
   {
     title: "VAT handling",
     summary:
       "We only sell our software to companies who don't deal with VAT at all, so technically we do all the VAT stuff they need.",
-    image: "/vat-returns.webp",
+    image: "/vat-returns.avif",
   },
   {
     title: "Reporting",
     summary:
       "Easily export your data into an Excel spreadsheet where you can do whatever the hell you want with it.",
-    image: "/reporting.webp",
+    image: "/reporting.avif",
   },
 ];
 
@@ -54,7 +54,7 @@ const Features = () => {
         style={{
           color:"transparent"
         }}
-        src="/background-features.jpg"
+        src="/background-features.avif"
       />
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 relative">
         <div className="max-w-2xl md:mx-auto md:text-center xl:max-w-none">

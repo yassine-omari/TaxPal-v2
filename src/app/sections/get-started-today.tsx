@@ -12,7 +12,7 @@ const GetStartedToday = () => {
         width={2347}
         height={1244}
         className="absolute top-1/2 left-1/2 max-w-none -translate-x-1/2 -translate-y-1/2"
-        src="/background-call-to-action.jpg"
+        src="/background-call-to-action.avif"
       />
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 relative">
         <div className="mx-auto max-w-lg text-center">

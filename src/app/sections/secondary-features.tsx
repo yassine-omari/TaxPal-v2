@@ -13,7 +13,7 @@ const features = [
     summary: "Stay on top of things with always up-to-date reporting features.",
     description:
       "We talked about reporting in the section above but we needed three items here, so mentioning it one more time for posterity.",
-    image: "/profit-loss.webp",
+    image: "/profit-loss.avif",
     icon: Reporting,
     iconBg: "bg-blue-600",
   },
@@ -23,7 +23,7 @@ const features = [
       "Never lose track of what’s in stock with accurate inventory tracking.",
     description:
       "We don’t offer this as part of our software but that statement is inarguably true. Accurate inventory tracking would help you for sure.",
-    image: "/inventory.webp",
+    image: "/inventory.avif",
     icon: Inventory,
     iconBg: "bg-blue-600",
   },
@@ -33,7 +33,7 @@ const features = [
       "Organize all of your contacts, service providers, and invoices in one place.",
     description:
       "This also isn’t actually a feature, it’s just some friendly advice. We definitely recommend that you do this, you’ll feel really organized and professional.",
-    image: "/contacts.webp",
+    image: "/contacts.avif",
     icon: Contacts,
     iconBg: "bg-blue-600",
   },

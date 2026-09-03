@@ -71,7 +71,7 @@ const Login = () => {
       <div className="hidden sm:contents lg:relative lg:block lg:flex-1">
         <Image
           alt=""
-          src="/background-auth.jpg"
+          src="/background-auth.avif"
           fill
           priority
           className="absolute inset-0 h-full w-full object-cover"

@@ -66,7 +66,7 @@ const FAQ = () => {
         width={1558}
         height={946}
         className="absolute top-0 left-1/2 max-w-none translate-x-[-30%] -translate-y-1/4"
-        src="/background-faqs.jpg"
+        src="/background-faqs.avif"
       />
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 relative">
         <div className="mx-auto max-w-2xl lg:mx-0">
